@@ -1,0 +1,47 @@
+# Node modules
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist
+build
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Testing
+coverage
+.nyc_output
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+
+# Documentation (not needed in container)
+*.md
+
+# CI/CD
+.github
+
+# Cache
+.npm
+.cache
+
+# Logs
+logs
+*.log
+
